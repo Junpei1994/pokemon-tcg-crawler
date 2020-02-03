@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-tcg-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junpei1994/pokemon-tcg-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junpei1994/pokemon-tcg-crawler/issues"
+  },
+  "homepage": "https://github.com/Junpei1994/pokemon-tcg-crawler#readme",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.4",
+    "nedb": "^1.8.0",
+    "nedb-promise": "^2.0.1"
+  }
+}
